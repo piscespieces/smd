@@ -1,0 +1,9 @@
+url: "https://smd.laodisea.ai" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Servicio Médico Diagnóstico" # the name of your site, e.g. ACME Corp.
+author: "Odisea AI"
+locale: "es"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
