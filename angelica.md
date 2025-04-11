@@ -2,6 +2,7 @@
 layout: angelica
 title: "Angelica Leal — OdiseaAI"
 description: "Agente IA de servicio al cliente para Angelica Leal"
+image: "/assets/images/angelica.jpeg"
 ---
 
 <div class="flex flex-col justify-center items-center min-h-[90vh] mx-auto max-w-4xl px-4">

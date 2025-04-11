@@ -1,6 +1,6 @@
-url: "https://smd.laodisea.ai" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://playground.laodisea.ai" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Servicio Médico Diagnóstico" # the name of your site, e.g. ACME Corp.
+title: "Playground Odisea AI" # the name of your site, e.g. ACME Corp.
 author: "Odisea AI"
 locale: "es"
 
